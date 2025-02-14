@@ -101,7 +101,7 @@ High-rated restaurants often have more menu variety and better service quality.
 
 * Dashboard :  "https://github.com/Rohan-Yele8788/ZOMATO-RESTAURANT-ANALYSIS/blob/main/Zomato%20Restaurant%20Analysis.pbix"  
 
-  ## Snapshot Dashboard : ![Zomato Analysis Image](https://github.com/user-attachments/assets/922187b0-559a-4262-bbdf-ac195c2aa61a)
+ * ## Snapshot Dashboard : ![Zomato Analysis Image](https://github.com/user-attachments/assets/922187b0-559a-4262-bbdf-ac195c2aa61a)
 
 
 
